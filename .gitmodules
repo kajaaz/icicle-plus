@@ -22,3 +22,6 @@
 [submodule "fuzzware-experiments"]
 	path = fuzzware-experiments
 	url = https://github.com/icicle-emu/fuzzware-experiments
+[submodule "pcode-generator"]
+	path = pcode-generator
+	url = git@github.com:kajaaz/pcode-generator.git
